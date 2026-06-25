@@ -11,4 +11,3 @@ Productivity app for managing tasks and projects.
 - Firebase
 - Vuex
 ## License
-MIT
