@@ -9,5 +9,5 @@ Productivity app for managing tasks and projects.
 ## Tech Stack
 - Vue.js
 - Firebase
-- Vuex
+- 
 ## License
