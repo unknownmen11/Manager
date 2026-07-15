@@ -5,6 +5,5 @@ Productivity app for managing tasks and projects.
 - Labels & 
 - Team collaboration
 - Time tracking
-- 
 ## Tech Stack
 - Firebase
